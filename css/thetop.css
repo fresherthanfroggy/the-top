@@ -10,7 +10,7 @@ h1, h2 {
 h1 {
   text-decoration: underline;
   text-shadow: 1px 1px 2px darkgoldenrod;
-  font-size: 625%;
+  font-size: 500%;
   font-family: garamond;
   user-select: none;
   margin: 2%;
@@ -24,7 +24,7 @@ h2 {
 }
 
 a{
-  font-size: 300%;
+  font-size: 250%;
   font-family: tahoma;
   text-decoration: none;
   text-shadow: 1px 1px 2px gray;
@@ -40,12 +40,12 @@ a:active {
 }
 
 .cover {
-  width: 45%;
+  width: 27%;
   filter: drop-shadow(8px 6px 6px);
 }
 
 .head {
-  width: 28%;
+  width: 20%;
   border-radius: 20px;
 }
 
